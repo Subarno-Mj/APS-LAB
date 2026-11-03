@@ -1,6 +1,6 @@
 # Probabilistic NLP-based Intelligent Support Triage & SLA Risk Prediction
 
-APS project · Aditya Ramchandra Yenkar · M.E. Big Data Analytics, MSIS Manipal
+APS project · Subarno Majumder · M.E. Big Data Analytics, MSIS Manipal
 
 A support ticket arrives as free text. The system:
 
